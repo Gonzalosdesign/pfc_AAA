@@ -7,6 +7,20 @@
     font-family: Arial, Helvetica, sans-serif;
   }
   
+.grid-container {
+  display: flex;
+  grid-template-columns: 80px auto;
+}
+
+.leftBar {
+  background-color: #111;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
   /* Style the side navigation */
   .sidenav {
     color: white;
