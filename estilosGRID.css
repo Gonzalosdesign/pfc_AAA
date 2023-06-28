@@ -38,7 +38,7 @@ iframe {
 .item2 {
     padding-left: 1rem;
 }
-.item2, li, a, ul{
+div, li, a, ul{
     font-size: larger;
     color: #222;
     text-decoration: none;
