@@ -47,6 +47,7 @@ div, li, a, ul{
 
 li:hover {
     background-color: #222;
+    color: yellow;
 }
 
 a:hover {
