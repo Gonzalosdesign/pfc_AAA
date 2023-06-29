@@ -52,3 +52,24 @@ li:hover {
 a:hover {
     color: yellow;
 }
+
+
+
+
+
+
+
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 10px;
+    width: 50%;
+    margin: 100px auto;
+  }
+  
+  .gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
