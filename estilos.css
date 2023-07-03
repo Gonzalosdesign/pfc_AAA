@@ -1,0 +1,12 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+.cabecera {
+    background-image: url(./fotos/bannerStellarium.png);
+    color: white;
+    font-size: larger;
+}
+
+h1 {
+    font-weight: bolder;
+}
